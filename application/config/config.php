@@ -26,8 +26,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 
 
-//$config['base_url'] = 'http://localhost/ict/';   
-$config['base_url'] = 'https://ictfatec.herokuapp.com/';      
+//$config['base_url'] = 'https://ictfatec.herokuapp.com/';   
+$config['base_url'] = 'http://ictfatec.esy.es/';      
 
 
 /*

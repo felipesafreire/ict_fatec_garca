@@ -75,11 +75,11 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'mysql.hostinger.com.br',
-	'username' => 'u764529156_ict',
-	'password' => 'ictfatec',
-	'database' => 'u764529156_ict',
-	'dbdriver' => 'mysqli',
+	'hostname' => 'ec2-54-163-234-20.compute-1.amazonaws.com',
+	'username' => 'jqobydapbdxace',
+	'password' => '09f647b847e008b1300696f55b3f44343907ae20a85fb1f28d166b29ba622780',
+	'database' => 'dc943bke097n87',
+	'dbdriver' => 'postgre',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
