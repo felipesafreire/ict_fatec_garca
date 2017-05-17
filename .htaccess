@@ -1,7 +1,7 @@
 RewriteEngine on
 RewriteCond $1 !^(index\.php|files|assets|upload|robots\.txt)
 RewriteRule ^(.*)$ index.php/$1 [L]
-#
+
 ##RewriteEngine on
 ##
 ##RewriteCond %{HTTPS} off
